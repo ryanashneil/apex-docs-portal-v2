@@ -1,20 +1,20 @@
 Getting Started
 
-- [Introduction](sections/home.md)
-- [Specifications](/sections/general/specifications.md)
-- [Roadmap](/sections/general/roadmap.md)
+- [Introduction](sections/developer/creating-applications.md)
+- [Specifications](sections/developer/creating-applications.md)
+- [Roadmap](sections/developer/creating-applications.md)
 
 Onboard to APEX (Public Officers)
 
-- [Pre-onboarding](sections/onboarding/introduction.md)
-- [Subscribe and Onboard to APEX](/sections/onboarding/subscribe-onboard.md)
-- [Manage Users](/sections/onboarding/manage-users.md)
-- [Manage APEX Subscription](/sections/onboarding/manage-subscription.md)
-- [Post-onboarding](/sections/onboarding/techbiz-post-onboarding.md)
+- [Pre-onboarding](sections/developer/creating-applications.md)
+- [Subscribe and Onboard to APEX](sections/developer/creating-applications.md)
+- [Manage Users](sections/developer/creating-applications.md)
+- [Manage APEX Subscription](sections/developer/creating-applications.md)
+- [Post-onboarding](sections/developer/creating-applications.md)
 
 Onboard to APEX (Non-government Users)
 
-- [Onboard as a Corppass User](/sections/onboarding/corppass-onboarding.md)
+- [Onboard as a Corppass User](sections/developer/creating-applications.md)
 
 API Consumers
 
@@ -27,12 +27,12 @@ API Consumers
 - [Consuming APIs](sections/developer/creating-applications.md)
 
 - References
-  - [JSON Web Key Set (JWKS)](sections/oauth/create-jwks-endpoint.md)
-  - [OAuth 2.1 Token Specifications](sections/oauth/token-specifications.md)
-  - [OAuth 2.1 Sample Codes](sections/oauth/sample-codes.md)
-  - [OAuth 2.1 Endpoints](sections/oauth/endpoints.md)
+  - [JSON Web Key Set (JWKS)](sections/developer/creating-applications.md)
+  - [OAuth 2.1 Token Specifications](sections/developer/creating-applications.md)
+  - [OAuth 2.1 Sample Codes](sections/developer/creating-applications.md)
+  - [OAuth 2.1 Endpoints](sections/developer/creating-applications.md)
 
-Publishers
+API Publishers
 
 - [Creating APIs](sections/developer/creating-applications.md)
 - [Publishing APIs](sections/developer/creating-applications.md)
@@ -43,27 +43,28 @@ Publishers
 - [Bridging APIs](sections/developer/creating-applications.md)
 - [Monitoring APIs](sections/developer/creating-applications.md)
 
-Support
+Troubleshooting
 
-- Troubleshooting
-  - [Introduction](sections/troubleshooting/introduction.md)
-  - [SEED issues](sections/troubleshooting/seed-issues.md)
-  - [APEX Error Codes](sections/troubleshooting/apex-error-codes.md)
-  - [Debugging API requests](sections/troubleshooting/api-requests.md)
-  - [API Call Success Rate Dashboard](sections/troubleshooting/api-calls-success.md)
-  - [Debugging using the APEX monitoring tool](sections/troubleshooting/api.md)
-  - [Debugging OAuth 2.1 authentications](sections/troubleshooting/oauth.md)
-  - [Debugging JWT authentications](sections/troubleshooting/jwt.md)
-  - [Debugging network connectivity](sections/troubleshooting/network.md)
-  - [Debugging API manager portal issues](sections/troubleshooting/api-manager.md)
-- General Enquiries / FAQs
-  - [Scheduled maintenance](sections/support/maintenance.md)
-  - [List of Recommended Trusted Certificate Authorities](sections/support/trusted-cert-authorities.md)
-  - [Raise a ticket](/sections/support/raise-ticket.md)
-    - [Create an Atlassian account (Non-TechPass users)](/sections/support/non-techpass.md)
+- [Introduction](sections/developer/creating-applications.md)
+- [SEED issues](sections/developer/creating-applications.md)
+- [APEX Error Codes](sections/developer/creating-applications.md)
+- [Debugging API requests](sections/developer/creating-applications.md)
+- [API Call Success Rate Dashboard](sections/developer/creating-applications.md)
+- [Debugging using the APEX monitoring tool](sections/developer/creating-applications.md)
+- [Debugging OAuth 2.1 authentications](sections/developer/creating-applications.md)
+- [Debugging JWT authentications](sections/developer/creating-applications.md)
+- [Debugging network connectivity](sections/developer/creating-applications.md)
+- [Debugging API manager portal issues](sections/developer/creating-applications.md)
+
+General Enquiries / FAQs
+
+- [Scheduled maintenance](sections/developer/creating-applications.md)
+- [List of Recommended Trusted Certificate Authorities](sections/developer/creating-applications.md)
+- [Raise a ticket](sections/developer/creating-applications.md)
+- [Create an Atlassian account (Non-TechPass users)](sections/developer/creating-applications.md)
 
 General
 
 - Best Practices
-  - [Encryption](sections/general/encryption.md)
-- [Network requirements](/sections/general/network-requirements.md)
+  - [Encryption](sections/developer/creating-applications.md)
+- [Network requirements](sections/developer/creating-applications.md)
