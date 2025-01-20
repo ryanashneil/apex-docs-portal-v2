@@ -1,11 +1,17 @@
 # Creating Applications
 
-Applications allow API consumers to generate credentials (API Key, OAuth) to consume APIs that are protected by authentication.
+Applications allow app developers to generate credentials (API Key, OAuth) to consume APIs that are protected by authentication.
 
 <div 
-  class="supademo wrapper">
+  style="
+  position: relative;
+  box-sizing: content-box;
+  max-height: 80vh;
+  max-height: 80svh;
+  width: 100%;
+  aspect-ratio: 2;
+  padding: 40px 0 40px 0;">
   <iframe 
-    class="supademo iframe"
     src="https://app.supademo.com/embed/cm3i6qzz8006w618vop9jls9e?embed_v=2"
     loading="lazy"
     title="APEX TechBiz"
@@ -13,7 +19,13 @@ Applications allow API consumers to generate credentials (API Key, OAuth) to con
     frameborder="0"
     webkitallowfullscreen="true"
     mozallowfullscreen="true"
-    allowfullscreen>
+    allowfullscreen
+    style="
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;">
   </iframe>
 </div>
 
