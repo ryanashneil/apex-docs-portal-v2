@@ -18,12 +18,6 @@ API Consumers
 - [Subscribing to APIs](/)
 - [Consuming APIs](/)
 
-- References
-  - [JSON Web Key Set (JWKS)](/)
-  - [OAuth 2.1 Token Specifications](/)
-  - [OAuth 2.1 Sample Codes](/)
-  - [OAuth 2.1 Endpoints](/)
-
 <br />
 
 API Publishers

@@ -1,6 +1,6 @@
 # Creating Applications
 
-Applications allow app developers to generate credentials (API Key, OAuth) to consume APIs that are protected by authentication.
+Applications allow API consumers to generate credentials (API Key, OAuth) to consume APIs that are protected by authentication.
 
 <div 
   class="supademo wrapper">
@@ -18,5 +18,7 @@ Applications allow app developers to generate credentials (API Key, OAuth) to co
 </div>
 
 <small class="feedback">Did this page help you?</small>
-<button class="feedback">👍 Yes</button>
-<button class="feedback">👎 No</button>
+<div>
+  <a class="feedback">👍 Yes</a>
+  <a class="feedback">👎 No</a>
+</div>
