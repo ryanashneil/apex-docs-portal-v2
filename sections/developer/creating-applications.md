@@ -31,6 +31,6 @@ Applications allow app developers to generate credentials (API Key, OAuth) to co
 
 <small class="feedback">Did this page help you?</small>
 <div>
-  <a class="feedback">👍 Yes</a>
-  <a class="feedback">👎 No</a>
+  <button class="feedback">👍 Yes</button>
+  <button class="feedback">👎 No</button>
 </div>
